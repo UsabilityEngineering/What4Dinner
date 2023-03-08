@@ -1,8 +1,8 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# What's For Dinner
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+What's For Dinner is an application meant to allow a user to 
 
 ## UX Team Members
 
@@ -21,7 +21,7 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
-
+It can be very challenging figuring out what to eat 3 times a day and harder still if you are under any sort of dietary restrictions. **What's For Dinner will allow a user to have access to recipis tailored for them.**
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
