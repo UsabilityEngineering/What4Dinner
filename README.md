@@ -26,7 +26,16 @@ It can be very challenging figuring out what to eat 3 times a day and harder sti
 * **Advertisements**: Users displeased with **advertisements swarming the user interface**
 * **Pay Walls**: A lot of **useful functionality hidden behind monthly paywalls**
 * **Tutorials**: Sometimes **kitchen jargon is confusing** for inexperienced users and **few competitors** provided **definitions of jargon and tutorials for tasks** 
+* **Shopping List**: Many platforms allowed for the **creation of a shopping list** but few took into account **ingredients you already have**
+**Heuristic evaluation** of a competitor showed that navigation of the site was easily learnable but some functionality was hidden from the user at first glance.
+* New Personas and Scenarios reflect what we have learned through our analyses and our goals moving forward:
 
+   -**Setting Calorie Goals** based on someone's diet
+   
+   -**Sort and Save Recipes** a user may want to visit later on
+   
+   -**Hide Recipes** that conflict with dietary restrictions
+   
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
