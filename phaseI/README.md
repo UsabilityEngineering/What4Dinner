@@ -18,7 +18,7 @@ For our competitive analysis, we dissected the strengths and weaknesses of compe
 
 ## Findings
 
-In our heuristic evaluation, we focused on one main competitor, Company A, and dissected their platform.
+In our heuristic evaluation we focused on one main competitor, Company A, and dissected their platform.
 
 We found the functionality of their platform to be satisfactory. For their error prevention and recovery system, we found that while their error prevention is lacking in some cases, the recovery for the user after committing an error is simple and swift. For example, when creating an account on Company A, there are no password requirements visible. After the user creates a password that failed the requirements, they would then appear and the user could try again. This could be easily improved by making the requirements available at the start. The visibility of the systems in Company A was adequate. While some components, such as password requirements, were not visible, overall the user actions we clearly visible on the platform and it gave prompt and helpful feedback to the user.
 
