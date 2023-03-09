@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # What's For Dinner
 
 What's for Dinner is a website intended to make it easier for someone to find a recipe they can cook, give them all the tools to help understand the recipes, and allow them to curate a cookbook of the recipes they love and want to share with everyone.
@@ -22,11 +20,12 @@ What's for Dinner is a website intended to make it easier for someone to find a 
 
 **Executive Summary**
 
-It can be very challenging figuring out what to eat 3 times a day and harder still if you are under any sort of dietary restrictions. **What's For Dinner will allow a user to have access to a collection of recipes tailored for them,** making the decision of What's For Dinner much easier. 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+It can be very challenging figuring out what to eat 3 times a day and harder still if you are under any sort of dietary restrictions. **What's For Dinner will allow a user to have access to a collection of recipes tailored for them,** making the decision of What's For Dinner much easier. We've done some research to find opportunities to improve the user experience.
+
+**Competative Analysis** of leading products revealed **opportunities for improvement** for multiple segments:
+* **Advertisements**: Users displeased with **advertisements swarming the user interface**
+* **Pay Walls**: A lot of **useful functionality hidden behind monthly paywalls**
+* **Tutorials**: Sometimes **kitchen jargon is confusing** for inexperienced users and **few competitors** provided **definitions of jargon and tutorials for tasks** 
 
 [Full phase I report](phaseI/)
 
