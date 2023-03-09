@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+What's 4 Dinner has set out to make finding new recipes that fit your specific taste and dietary needs easier. What’s 4 Dinner’s mission is to aid in the decision-making process of what to eat for a meal and suggest new and exciting recipes to its users, all while filtering recipes by elements such as price, ingredient availability, and much more.
 
 ## Methods
 
