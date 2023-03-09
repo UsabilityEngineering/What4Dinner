@@ -36,6 +36,8 @@ It can be very challenging figuring out what to eat 3 times a day and harder sti
    
    -**Hide Recipes** that conflict with dietary restrictions
    
+* **Sketches** reflect a users ability to find a recipe, apply filters, and sign up for an account.
+   
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
