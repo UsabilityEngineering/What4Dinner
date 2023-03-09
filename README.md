@@ -2,7 +2,7 @@
 
 # What's For Dinner
 
-What's For Dinner is an application meant to allow a user to 
+What's for Dinner is a website intended to make it easier for someone to find a recipe they can cook, give them all the tools to help understand the recipes, and allow them to curate a cookbook of the recipes they love and want to share with everyone.
 
 ## UX Team Members
 
@@ -21,7 +21,8 @@ What's For Dinner is an application meant to allow a user to
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
-It can be very challenging figuring out what to eat 3 times a day and harder still if you are under any sort of dietary restrictions. **What's For Dinner will allow a user to have access to recipis tailored for them.**
+
+It can be very challenging figuring out what to eat 3 times a day and harder still if you are under any sort of dietary restrictions. **What's For Dinner will allow a user to have access to a collection of recipes tailored for them,** making the decision of What's For Dinner much easier. 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
