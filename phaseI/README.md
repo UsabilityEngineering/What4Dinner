@@ -37,8 +37,18 @@ The quality of all competitors evaluate ranged from average to high. The price r
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Using various research methods, we were able to narrow our scope of how our website should perform. 
+
+The competitive analysis our team performed proved a solid foundation for us to begin our research. We were able to aim our focus in a forward-thinking direction and go from there.
+
+The findings from our heuristic evaluation were exceptionally useful. Company A was able to provide a proper foundation of intelligent UX design, specifically in the areas of error handling, user freedom and control, and minimalistic design. 
+
+As for user freedom and control, we are considering implementing an interactable web page path for simple and responsive navigation. Our team will also incorporate many aspects of the minimal UX Design of Company A such as the navigation bar and sleek, scrollable home page design. And finally in regard to error recovery, we will make certain it is clear to the user where the error visually lies, and simple instruction on changes that must be made to recover.
+
+We have also explored the caveats of Company A’s website such as error prevention, which we improve upon by making sure that all features behave as expected in their mental model. 
+
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The largest caveat our team came across was within our competitive analysis. There were many applications and websites with premium features that were inaccessible for our team to access, and therefore inaccessible to compare. There were also entire applications that were locked behind a paywall, leaving us with no collected data.
+
