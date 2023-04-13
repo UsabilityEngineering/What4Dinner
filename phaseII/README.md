@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+During this sprint, we were focused on creating and fine tuning the user interface. To do this, we built a wireframe in Adobe XD and we had fellow UX designers conduct a cognitive walkthrough of our wireframe. 
 
 ## Methods
 
