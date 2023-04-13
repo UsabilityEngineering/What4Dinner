@@ -15,7 +15,7 @@ Cognitive Walkthroughs were conducted by the Whats4Dinner team to assess the fun
 
 ## Findings
 
-Creating the basic wireframes and low-fidelity prototypes allowed the Whats4Dinner team to flush out the layout of the platform and create a draft of the final interface. Doing so revealed minor obstacles such as where to put buttons and how to layout the platform most effectively. These obstacles were easily surpassed.
+Creating the basic wireframes and low-fidelity prototypes allowed the Whats4Dinner team to flesh out the layout of the platform and create a draft of the final interface. Doing so revealed minor obstacles such as where to put buttons and how to layout the platform most effectively. These obstacles were easily surpassed.
 
 The cognitive walkthrough evaluations yielded valuable insight into the current functionality of Whats4Dinner. 
 
@@ -25,9 +25,13 @@ Another participant in our cognitive walkthroughs expressed a want for more spec
 
 
 ## Conclusions
+Through the cognitive walkthroughs along with our own development of a wireframe, we were able to fine tune our application and narrow our scope even further.
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The cognitive walkthrough provided helpful critiques of our wireframe that allowed us to improve our work. Specifically, we saw that tips and tricks were both hard to find and not very useful for our personas and scenarios. In addition, users were unable to discern recipe difficulty and time. Not to mention adding tips and tricks would take away time from more important features such as filters or creating a profile. 
+
+Along with the walkthrough, developing the wireframe provided a good draft for the layout of our website. With input from our software engineers, we decided to focus more on the social media aspect of the site. This decision was based on our goal of making our product different from the rest of the competition we analyzed in the previous sprint.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The largest caveat we encountered was the fact that our cognitive walkthroughs were only performed by fellow UX designers. Not only that but everyone was about the same age and had the same tech experience level due to them all being computer scientists. Another caveat we had was the wireframe didn't yet reflect our change in focus towards more social media interaction.
+
