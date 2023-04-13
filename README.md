@@ -53,8 +53,11 @@ improvement:
 * Overall, the designers were **successful** in **completing each scenario**.
    -They were able to **search recipes, find recipes, and execute filters**
 * They were **unsuccessful** in:
-   -Determining the **difficulty rating** of a recipe
+
+   -**Determining** the **difficulty rating** of a recipe
+ 
    -**Finding tips** and tricks
+   
 * **A New Persona and Scenario** have been **added** to reflect a **change in focus* for the *next sprint*
    -**Adding a Homepage Blog** as opposed to a separate page
 * **Discontinuing Tips and Tricks Page**
