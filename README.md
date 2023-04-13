@@ -10,10 +10,9 @@ What's for Dinner is a website intended to make it easier for someone to find a 
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](wireframes/) - Coming soon (phase II)!
+* [Wireframes](wireframes/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
@@ -44,10 +43,23 @@ It can be very challenging figuring out what to eat 3 times a day and harder sti
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+During this sprint, we focused on **designing the user interface** through **wireframes**, creating
+a **low-fidelity prototype**. After that, we had **fellow UX designers** perform **cognitive
+walkthroughs of our wireframe** so that we could get feedback on our design. This was done by
+having our designers **walk through** the steps one of our **personas** would take to complete a **scenario**.
+
+The **Cognitive Walkthroughs** showed us what we have right while also pointing out places of
+improvement:
+* Overall, the designers were **successful** in **completing each scenario**.
+   -They were able to **search recipes, find recipes, and execute filters**
+* They were **unsuccessful** in:
+   -Determining the **difficulty rating** of a recipe
+   -**Finding tips** and tricks
+* **A New Persona and Scenario** have been **added** to reflect a **change in focus* for the *next sprint*
+   -**Adding a Homepage Blog** as opposed to a separate page
+* **Discontinuing Tips and Tricks Page**
+* **A Wireframe** has been added to the report
+   
 
 [Full phase II report](phaseII/)
 
