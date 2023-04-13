@@ -4,7 +4,7 @@ What's for Dinner is a website intended to make it easier for someone to find a 
 
 ## UX Team Members
 
-* **[Jon Hawkins](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* [Jon Hawkins](https://usabilityengineering.github.io/ux-portfolio-JHawkins7358/) - UX Designer
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
