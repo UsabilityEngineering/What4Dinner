@@ -3,7 +3,7 @@
 ## Introduction
 
 The focus of the final sprint was to fine tune the usability of our product through user testing of a prototype. Specifically, we focused on the learnability,
-satisfaction of use, and efficiency of use. 
+satisfaction of use, and efficiency of use. We also implemented a blog feature in our website to differentiate our site from others.
 
 ## Methods
 
