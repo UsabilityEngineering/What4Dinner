@@ -69,10 +69,17 @@ improvement:
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
+For our final sprint, we focused on fine tuning the interface to **develop a prototype**. Afterwords, we took the 
+prototype and **performed user testing** with our UX classmates.
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The **User Testing** was largely successful. The main functions we wanted to test were:
+* **Search Function and Filter Execution** - No problems with search, one user wasn't able to find the filters at first
+* **Saving and Sharing Recipes** - No issues saving, one user was mildly confused about which link they should use for sharing the recipe
+* **Posting a Blog Entry** - No issues, users both went to the blog page and posted directly on the home page
+* **Make a Profile** - No issues
+
+From the tests we learned our current set up is very successful. We will need to make the filter button **more clearly labeled as a filter button**.
+The **blog** aspect of our prototype was very successful as well and **helps differentiate our product** from what is already out there now.
+**The Prototype has been added to the repository**
 
 [Full phase III report](phaseIII/)
