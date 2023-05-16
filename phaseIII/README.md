@@ -23,7 +23,7 @@ After each task, the users were asked to rank the ease of completion from 1-10, 
 
 ## Findings
 
-Task 1: The users found this task very easy to complete, giving it an average difficulty rating of 2.75/10. One participant expressed slight confusion on where the filter button was located but found it quickly.
+Task 1: The users found this task moderately easy to complete, giving it an average difficulty rating of 2.75/10. One participant expressed slight confusion on where the filter button was located but found it quickly.
 
 Task 2: The users found this task to be extremely easy, giving it an average difficulty rating of 1.75/10. There was no confusion regarding this task.
 
