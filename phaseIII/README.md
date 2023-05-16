@@ -37,11 +37,9 @@ Task 5: The users found this task very easy to complete, giving it an average di
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-The usability study resulted in mostly positive feedback from our subjects. The biggest issue our subjects faced was within task 1, involving the "filter search" tab. With our research completed thusfar, it is uncertain whether the buttons functionality is unclear to the subjects or if our current prototype is too low fidelity for a natural user experience. 
+The usability study resulted in mostly positive feedback from our subjects. The biggest issue our subjects faced was within task 1, involving the "filter search" tab. With our research completed thusfar, it is uncertain whether the buttons functionality is unclear to the subjects or if our current prototype is too low fidelity for a natural user experience. A second usability study should be conducted with a higher fidelity prototype to compare test results.
  
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The fidelity of our prototype was slighty too low for a natural user experience. Since our team was limited by the Adobe XD software, our prototype did not take typed keyboard input. This input would have been useful for our user to type keywords into the recipe search bar. Without this functionality, some users reported confusion regarding needing to use the filter functionality instead of typing keywords. In addition, our test subjects were limited demographically since all subjects were very technologically literate.
