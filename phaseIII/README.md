@@ -2,7 +2,8 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The focus of the final sprint was to fine tune the usability of our product through user testing of a prototype. Specifically, we focused on the learnability,
+satisfaction of use, and efficiency of use.
 
 ## Methods
 
