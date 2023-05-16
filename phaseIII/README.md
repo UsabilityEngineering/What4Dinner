@@ -9,7 +9,7 @@ satisfaction of use, and efficiency of use. We also implemented a blog feature i
 
 The Whats4Dinner team executed a usability study in our third phase to evaluate our current prototype’s functionality and design by accessing how users interacted with the prototype and listening to their feedback. We gave each participate five tasks to complete within the prototype, then asked them questions regarding the task once they had finished, followed by a series of debriefing questions once the study was completed.
 
-Task 1: The users were tasked to find a gluten free mac and cheese recipie. This test allowed us to examine how users iintereacted with the search bar as well as the search filters.
+Task 1: The users were tasked to find a gluten free mac and cheese recipie. This test allowed us to examine how users intereacted with the search bar as well as the search filters.
 
 Task 2: The users were asked to save a recipe of their choice, then find that recipe in their cookbooks. This task tested how quickly users were able to save a recipe then locate their saves.
 
@@ -38,6 +38,9 @@ Task 5: The users found this task very easy to complete, giving it an average di
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+
+The usability study resulted in mostly positive feedback from our subjects. The biggest issue our subjects faced was within task 1, involving the "filter search" tab. With our research completed thusfar, it is uncertain whether the buttons functionality is unclear to the subjects or if our current prototype is too low fidelity for a natural user experience. 
+ 
 
 ## Caveats
 
