@@ -13,7 +13,7 @@ What's for Dinner is a website intended to make it easier for someone to find a 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](Prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
